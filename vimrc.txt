@@ -1,0 +1,2 @@
+ :r $VIMRUNTIME/vimrc_example.vim
+
